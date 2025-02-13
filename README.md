@@ -46,3 +46,6 @@ Drag and drop the project folder into the deployment dashboard or connect your G
 Replace UA-XXXXX-X in the Google Analytics script with your actual tracking ID.
 
 Replace FB_PIXEL_ID in the Facebook Pixel script with your actual pixel ID.
+
+## Live Demo
+Deployed on Vercel.
